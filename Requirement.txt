@@ -1,0 +1,9 @@
+openai                  ~= 7.8.0
+langchain               ~= 0.9.3
+streamlit               ~= 1.7.0
+pandas                  ~= 1.5.2
+dotenv                  ~= 0.20.0
+# Optional dependencies for CSV agent creation
+langchain-experimental  ~= 0.8.0
+
+Make sure you install the relevant libraries using the package manager appropriate for your environment (e.g., pip install -r requirements.txt for Python)
